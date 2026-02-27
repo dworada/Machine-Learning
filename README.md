@@ -1,4 +1,4 @@
-## The project : A Machine Learning Approach for Sentiment Analysis of Spotify Reviews in the United Kingdom 
+## The project : A Machine Learning Approach for Sentiment Analysis of Spotify Reviews in the United Kingdom in 2024 
 
 ## Project Description
 This project is focusing on sentiment analysis by using machine learning on the most recent year of Spotify's reviews. 
